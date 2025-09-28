@@ -79,7 +79,3 @@ const developer = {
 ---
 
 ⭐️ **"El código es poesía, y cada proyecto es una nueva historia por contar"**
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU_USERNAME&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
-</div>
