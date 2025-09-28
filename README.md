@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Brayan Villegas.
+# 👋 ¡Hola! Soy Brayan Villegas
 
 ## 🚀 Desarrollador Full Stack | Web & Mobile Developer
 
@@ -19,10 +19,14 @@ Soy un desarrollador apasionado por crear aplicaciones web y móviles innovadora
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="60" height="60"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="Angular" width="60" height="60"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="60" height="60"/>
-<img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="60" height="60"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="60" height="60"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="60" height="60"/>
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="60" height="60"/>
+
+### 📱 Mobile Development
+<img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET MAUI" width="60" height="60"/>
 
 ### ⚙️ Backend & Databases
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="60" height="60"/>
@@ -40,21 +44,21 @@ Soy un desarrollador apasionado por crear aplicaciones web y móviles innovadora
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Villegas07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Villegas07&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BRAYAN_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BRAYAN_USERNAME&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ## 🌟 Lo que me caracteriza
 
 ```javascript
 const developer = {
-    name: "Brayan Villegas Corrales",
+    name: "Brayan Villegas",
     role: "Full Stack Developer",
-    code: ["JavaScript", "TypeScript", "Java", "HTML", "CSS", "SQL"],
+    code: ["JavaScript", "TypeScript", "Java", "Dart", "C#", "HTML", "CSS", "SQL"],
     technologies: {
         frontEnd: {
             js: ["React", "Angular", "Vue.js"],
-            mobile: ["React Native", "Flutter", "MAUI"],
+            mobile: ["React Native", "Flutter", ".NET MAUI"],
             css: ["TailwindCSS", "CSS3"]
         },
         backEnd: {
@@ -66,16 +70,20 @@ const developer = {
         architecture: ["Microservices", "RESTful APIs", "SPA"]
     },
     currentFocus: "Creando experiencias digitales increíbles",
-    funFact: "Siempre buscando aprender nuevas tecnologías"
+    funFact: "Desarrollo apps nativas en Android, iOS y Windows"
 };
 ```
 
 ## 📫 ¿Hablamos?
 
-- 💼 **LinkedIn**: [Brayan Villegas](www.linkedin.com/in/brayanvillegascorrales-943806260)
-- 📧 **Email**: brayanvillegas@gmail.com
-- 🌐 **Portfolio**: [Brayan Villegas]([https://tu-portfolio.com](https://portafolio-9d3ca.web.app/))
+- 💼 **LinkedIn**: [linkedin.com/in/brayanvillegascorrales](https://www.linkedin.com/in/brayanvillegascorrales-943806260)
+- 📧 **Email**: brayanvillegas0719@gmail.com
+- 🌐 **Portfolio**: [portafolio-9d3ca.web.app](https://portafolio-9d3ca.web.app/)
 
 ---
 
 ⭐️ **"El código es poesía, y cada proyecto es una nueva historia por contar"**
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=BRAYAN_USERNAME&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+</div>
