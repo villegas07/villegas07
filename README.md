@@ -48,13 +48,13 @@ Soy un desarrollador apasionado por crear aplicaciones web y móviles innovadora
 
 ```javascript
 const developer = {
-    name: "Tu Nombre",
+    name: "Brayan Villegas Corrales",
     role: "Full Stack Developer",
     code: ["JavaScript", "TypeScript", "Java", "HTML", "CSS", "SQL"],
     technologies: {
         frontEnd: {
             js: ["React", "Angular", "Vue.js"],
-            mobile: ["React Native"],
+            mobile: ["React Native", "Flutter", "MAUI"],
             css: ["TailwindCSS", "CSS3"]
         },
         backEnd: {
@@ -72,9 +72,9 @@ const developer = {
 
 ## 📫 ¿Hablamos?
 
-- 💼 **LinkedIn**: [Tu LinkedIn](https://linkedin.com/in/tu-perfil)
-- 📧 **Email**: tu.email@example.com
-- 🌐 **Portfolio**: [tu-portfolio.com](https://tu-portfolio.com)
+- 💼 **LinkedIn**: [Brayan Villegas](www.linkedin.com/in/brayanvillegascorrales-943806260)
+- 📧 **Email**: brayanvillegas@gmail.com
+- 🌐 **Portfolio**: [Brayan Villegas]([https://tu-portfolio.com](https://portafolio-9d3ca.web.app/))
 
 ---
 
