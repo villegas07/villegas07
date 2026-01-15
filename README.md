@@ -78,9 +78,9 @@ const developer = {
 
 ## 📫 ¿Hablamos?
 
-- 💼 **LinkedIn**: [linkedin.com/in/brayanvillegascorrales](https://www.linkedin.com/in/brayanvillegascorrales-943806260)
+- 💼 **LinkedIn**: [linkedin.com/in/brayanvillegascorrales](https://www.linkedin.com/in/brayanvillegascorrales)
 - 📧 **Email**: brayanvillegas0719@gmail.com
-- 🌐 **Portfolio**: [portafolio-9d3ca.web.app](https://portafolio-9d3ca.web.app/)
+- 🌐 **Portfolio**: [brayanvillegas-azure.vercel.app](https://brayanvillegas-azure.vercel.app)
 
 ---
 
