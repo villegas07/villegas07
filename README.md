@@ -90,28 +90,40 @@ val stack = mapOf(
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Skills & Expertise
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=villegas07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=villegas07&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-</div>
+### 🌐 Languages
+| Language | Nivel |
+|---|---|
+| JavaScript / TypeScript | ████████████████████ Advanced |
+| Kotlin | ████████████████░░░░ Intermediate-Advanced |
+| Java | ███████████████░░░░░ Intermediate |
+| Dart | ██████████████░░░░░░ Intermediate |
+| C# | ████████████░░░░░░░░ Intermediate |
+| SQL | ████████████████░░░░ Intermediate-Advanced |
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=villegas07&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
+### 🧩 Area Expertise
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=villegas07&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6EE7B7&line=6EE7B7&point=FFFFFF" alt="Activity Graph" />
-</div>
+| Área | Tecnologías | Nivel |
+|---|---|---|
+| 🎨 Frontend | React, Angular, Vue.js, Next.js | ⭐⭐⭐⭐⭐ |
+| 📱 Mobile | React Native, Flutter, Kotlin, .NET MAUI | ⭐⭐⭐⭐⭐ |
+| ⚙️ Backend | Spring Boot, Node.js | ⭐⭐⭐⭐ |
+| 🗄️ Databases | PostgreSQL, MongoDB | ⭐⭐⭐⭐ |
+| 🎨 UI/UX | Figma, TailwindCSS | ⭐⭐⭐⭐ |
+| 🛠️ DevOps | Git, Linux, Docker | ⭐⭐⭐ |
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Highlights
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=villegas07&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
-</div>
+
+| 🌐 | 📱 | ⚙️ | 🗄️ |
+|:---:|:---:|:---:|:---:|
+| **Web Apps** | **Mobile Apps** | **APIs REST** | **Databases** |
+| React · Angular · Vue | React Native · Flutter | Spring Boot · Node.js | PostgreSQL · MongoDB |
+| Next.js · TypeScript | Kotlin · .NET MAUI | Microservices | Optimización & Diseño |</div>
 
 ---
 
